@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omnis\\DatingApp\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\Omnis\\DatingApp\\DatingApp\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omnis\\DatingApp\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\Omnis\\DatingApp\\DatingApp\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omnis\\DatingApp\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Omnis\\DatingApp\\DatingApp\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Omnis\\DatingApp\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Omnis\\DatingApp\\DatingApp\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Omnis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omnis\\DatingApp\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\Omnis\\DatingApp\\DatingApp\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Omnis\\AppData\\Roaming\\NuGet\\NuGet.Config",
