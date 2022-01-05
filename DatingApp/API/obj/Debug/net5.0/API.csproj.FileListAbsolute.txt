@@ -73,6 +73,12 @@ C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\Datin
 C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+<<<<<<< HEAD
+=======
+C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+>>>>>>> origin/Section-3---Authentication-basics
 C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
@@ -82,6 +88,7 @@ C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\Datin
 C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
 C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
 C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
@@ -110,3 +117,7 @@ C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\Datin
 C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\obj\Debug\net5.0\ref\API.dll
 C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\obj\Debug\net5.0\API.pdb
 C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Omnis\OneDrive\Рабочий стол\DatingAppProject\DatingApp\DatingApp\API\obj\Debug\net5.0\API.csproj.CopyComplete
