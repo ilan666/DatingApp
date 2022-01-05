@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LROsYr+faSqxVGSH6HnwqeIt3AzUTXmgymSAvsVT4fWthAUsMB+wsNoLy7ilvkUXsPWr71HFljGsFUmqkjhmyg==",
+  "dgSpecHash": "1dWNG719PItxOw6eaeff9CU+s+S3z2leweS4E5eYrzXqplFV8OP3roI2Jve3NL3zT3qL8c2LO1chZtxHNBznJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omnis\\DatingApp\\DatingApp\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Omnis\\OneDrive\\Рабочий стол\\DatingAppProject\\DatingApp\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omnis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Omnis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
