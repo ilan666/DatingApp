@@ -1554,11 +1554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omnis\\OneDrive\\Рабочий стол\\DatingAppProject\\DatingApp\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Omnis\\OneDrive\\Рабочий стол\\DatingApp\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Omnis\\OneDrive\\Рабочий стол\\DatingAppProject\\DatingApp\\DatingApp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Omnis\\OneDrive\\Рабочий стол\\DatingApp\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Omnis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omnis\\OneDrive\\Рабочий стол\\DatingAppProject\\DatingApp\\DatingApp\\API\\obj\\",
+      "outputPath": "C:\\Users\\Omnis\\OneDrive\\Рабочий стол\\DatingApp\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Omnis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1631,13 +1631,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Omnis\\OneDrive\\Рабочий стол\\DatingAppProject\\DatingApp\\DatingApp\\API\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
